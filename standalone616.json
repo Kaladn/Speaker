@@ -1,0 +1,5 @@
+﻿{
+  "lexicon_root": "./data/lexicon_canonical",
+  "data_root": "./data",
+  "window": 6
+}
