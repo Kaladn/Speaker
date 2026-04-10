@@ -7,24 +7,21 @@ venv/
 .vscode/
 .idea/
 
-data/**
-!data/
-!data/.gitkeep
-!data/lexicon/
-!data/lexicon/.gitkeep
-!data/lexicon_canonical/
-!data/lexicon_canonical/.gitkeep
-!data/lexicon_spare/
-!data/lexicon_spare/.gitkeep
-!data/evidence/
+data/evidence/
+data/evidence_backup_*/
+data/maps/
+data/receipts/
+data/exports/
+data/reports/
+
+data/lexicon/alias_map.json
+data/lexicon/local_overlay.json
+data/lexicon/backups/
+
 !data/evidence/.gitkeep
-!data/maps/
 !data/maps/.gitkeep
-!data/receipts/
 !data/receipts/.gitkeep
-!data/exports/
 !data/exports/.gitkeep
-!data/reports/
 !data/reports/.gitkeep
 
 *.bak
